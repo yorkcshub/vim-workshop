@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction to Vim}{3}{0}{1}
+\beamer@sectionintoc {2}{Basics}{14}{0}{2}
+\beamer@sectionintoc {3}{Advances}{24}{0}{3}
+\beamer@sectionintoc {4}{Configure Vim Yourself!}{28}{0}{4}
+\beamer@sectionintoc {5}{Resources}{32}{0}{5}
